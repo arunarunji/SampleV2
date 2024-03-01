@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Cryptos</string>
+    <string name="crypto_coins">Crypto Coins</string>
+    <string name="filter">Filter</string>
+    <string name="selected_filters_dosn_t_have_any_cryptos">Selected Filters dosn\'t have any cryptos</string>
+    <string name="token">token</string>
+    <string name="h">h</string>
+    <string name="crypto">Crypto</string>
+    <string name="no_matching_results">No matching results</string>
+    <string name="some_thing_went_wrong">Some Thing Went Wrong , Please Refresh the Data.</string>
+    <string name="no_search_result_found">No Search Result Found</string>
+</resources>
